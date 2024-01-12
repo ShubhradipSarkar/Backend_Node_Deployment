@@ -120,3 +120,21 @@
  1704910084124: POST /auth/login
  1704910108860: POST /auth/register
  1704910118972: POST /auth/login
+ 1704951617464: POST /auth/register
+ 1704951630688: POST /auth/login
+ 1704951670691: POST /auth/login
+ 1704951801119: POST /auth/login
+ 1704951868756: POST /auth/login
+ 1704952035327: POST /auth/login
+ 1704952036332: POST /auth/login
+ 1704952040975: POST /auth/login
+ 1704953320915: POST /auth/login
+ 1704953327930: POST /auth/login
+ 1704953337547: POST /auth/login
+ 1704953350936: GET /auth/register
+ 1704966439996: POST /auth/login
+ 1704966562059: POST /auth/register
+ 1704966605925: POST /auth/login
+ 1704966732343: POST /auth/register
+ 1704966739333: POST /auth/register
+ 1704966750066: POST /auth/register
